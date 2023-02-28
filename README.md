@@ -15,50 +15,31 @@
 </div>
 
 ## My toolbox 🧰
-**Languages**<br>
 <p>
 <a href="https://www.javascript.com/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></a>&nbsp
-<a href="https://www.typescriptlang.org/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></a>&nbsp
-
-**Front-End**<br>
-<p>
+<a href="https://www.typescriptlang.org/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>&nbsp
+<a href="https://www.java.com/"><img width="40" src="https://codingdots.in/wp-content/uploads/2021/01/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.png" alt="Java"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />&nbsp
 <img width="40" src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" />&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp
-
-**Back-end**<br>
-<p>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>&nbsp
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>&nbsp
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg"/>&nbsp
 <img height="40" src="https://tsed.io/prisma-2.svg" style />&nbsp
-
-**Database**<br>
-<p>
-<img height="40" src="https://seeklogo.com/images/O/oracle-database-logo-780BE0C820-seeklogo.com.png"/>&nbsp
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"  />&nbsp
-
-**Tests**<br>
-<p>
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" />&nbsp
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp
-
-**Deploy**<br>
-<p>
 <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"  />&nbsp
 <img width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />&nbsp
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&nbsp
-
-**Other Tools**<br>
-<p>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>&nbsp
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg"/>&nbsp
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>&nbsp
   
   
