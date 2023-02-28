@@ -4,7 +4,7 @@
 
 ### My name is Valmo Trindade,
 
-* I'm a **Full Stack** Web Developer! I love work with data and all things that backend offers, but for me the user experiencie and the user interface is very important too, via front-end interface!
+* I'm a **React Front End Developer** from Porto Alegre, Brazil, currently studying Next.js and Nest.js.
 
 <div align="center">
 
