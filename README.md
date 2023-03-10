@@ -114,4 +114,4 @@
 </p>
   
   
-_"Perfer et obdura; dolor hic tibi proderit olim" (Be patient and tough; someday this pain will be useful to you”)_ - Ovídio
+_"nem cora o livro de ombrear co'o sabre nem cora o sabre de chamá-lo irmão" (neither blushes the book to fight with the sword nor blushes the sword to call him brother”)_ - Castro Alves
